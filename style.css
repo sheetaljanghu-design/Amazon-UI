@@ -21,7 +21,7 @@
 }
 
 .logo {
-    background-image: url(../amazon_logo2.jpg);
+    background-image: url(amazon_logo2.jpg);
     background-size: cover;
     height: 50px;
     width: 100px;
@@ -148,14 +148,14 @@ span {
 }
 
 .panel-deals {
-    font-size: 0.9re, ;
+    font-size: 0.9rem, ;
     font-weight: 700;
 }
 
 /* herosection */
 
 .hero-section {
-    background-image: url("../top-main-background.jpg");
+    background-image: url("top-main-background.jpg");
     height: 350px;
     background-size: cover;
     display: flex;
@@ -202,7 +202,7 @@ span {
 
 .box-img1 {
     height: 335px;
-    background-image: url(../HomeDecor.jpg);
+    background-image: url(HomeDecor.jpg);
     background-size: cover;
     margin-top: 1rem;
     margin-bottom: 1rem;
@@ -210,7 +210,7 @@ span {
 
 .box-img2 {
     height: 335px;
-    background-image: url(../CleaningTool.jpg);
+    background-image: url(CleaningTool.jpg);
     background-size: cover;
     margin-top: 1rem;
     margin-bottom: 1rem;
@@ -219,7 +219,7 @@ span {
 
 .box-img3 {
     height: 335px;
-    background-image: url(../Bedding.jpg);
+    background-image: url(Bedding.jpg);
     background-size: cover;
     margin-top: 1rem;
     margin-bottom: 1rem;
@@ -228,7 +228,7 @@ span {
 
 .box-img4 {
     height: 335px;
-    background-image: url(../headphone.jpg);
+    background-image: url(headphone.jpg);
     background-size: cover;
     margin-top: 1rem;
     margin-bottom: 1rem;
@@ -236,7 +236,7 @@ span {
 
 .box-img5 {
     height: 335px;
-    background-image: url(../bottle.jpg);
+    background-image: url(bottle.jpg);
     background-size: cover;
     margin-top: 1rem;
     margin-bottom: 1rem;
@@ -244,7 +244,7 @@ span {
 
 .box-img6 {
     height: 335px;
-    background-image: url(../gamepc.jpg);
+    background-image: url(gamepc.jpg);
     background-size: cover;
     margin-top: 1rem;
     margin-bottom: 1rem;
@@ -253,7 +253,7 @@ span {
 
 .box-img7 {
     height: 335px;
-    background-image: url(../HomeStorage.jpg);
+    background-image: url(HomeStorage.jpg);
     background-size: cover;
     margin-top: 1rem;
     margin-bottom: 1rem;
@@ -262,7 +262,7 @@ span {
 
 .box-img8 {
     height: 335px;
-    background-image: url(../Homepan.jpg);
+    background-image: url(Homepan.jpg);
     background-size: cover;
     margin-top: 1rem;
     margin-bottom: 1rem;
@@ -317,7 +317,7 @@ ul a {
 
 .foot-panel3 {
     background-color: #222f3d;
-    columns: white;
+    color: white;
     border-top: 0.5px solid black;
     height: 70px;
     display: flex;
@@ -326,7 +326,7 @@ ul a {
 }
 
 .logo {
-    background-image: url(../amazon_logo2.jpg);
+    background-image: url(amazon_logo2.jpg);
     background-size: cover;
     height: 50px;
     width: 100px;
@@ -336,10 +336,6 @@ ul a {
     background-color: #0f1111;
     color: white;
     height: 80px;
-    /* display: flex;
-    justify-content: center;
-    align-items: center;
- */
 }
 
 .pages {
